@@ -1,6 +1,56 @@
-## Preview
+# 
 
-## ![preview](./preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arch3rPro/SecurityRSS/main/preview.png" >
+</p>
+<h1 align="center">SecurityRSS - 安全资讯订阅源 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Arch3rPro-blueviolet.svg">
+  <img src="https://img.shields.io/badge/Release-v1.0-blue.svg" />
+  <img src="https://img.shields.io/badge/Platform-Windows-red.svg" />
+  <img src="https://img.shields.io/badge/WSL-Kali-9cf.svg">
+  <img src="https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg">
+</p>
+
+
+<p align="center">
+  <a href="http://www.seclions.top/">作者博客</a> | 
+  <a href="http://www.seclions.top/document">文档教程</a> | 
+  <a href="http://nav.seclions.top/">安全导航</a> | 
+  <a href="http://nav.seclions.top/wechat.html">微信公众号导航</a> 
+</p>
+
+
+### 0x00 前言
+
+#### RSS 是什么
+
+RSS 的全称是「简易内容聚合」（Really Simple Syndication），是一个能让你在一个地方订阅各种感兴趣网站的工具。
+
+> 一个网站支持 RSS，就意味着每当它新发布一篇新文章，就会往一个位于特定网址的文件中，以特定的语法（具体而言是 XML 标记语言或 JSON）增加一条记录，列明这篇文章的标题、作者、发表时间和内容（可以是全文，也可以是摘要）等信息。这样，用户只要搜集所有他感兴趣的网站提供的这种文件的网址，并不时检查这些文件内容的更新，就能知道这些网站是否、何时发布了什么内容。RSS 阅读器的核心功能，就是存储用户订阅的 RSS 地址，以固定的频率自动检查更新，并将其内容转换为易读的格式呈现给用户。
+
+简单地说，当我关注的某个人在知乎、或者在博客上回答了一个问题、写了一篇新文章，我马上就能收到推送。当我关注的人变多了，我不必一一点开知乎、简书、甚至翻看博客去主动获取更新，而是在一个统一的终端内阅读。
+
+#### 为什么用 RSS
+
+RSS 的对立面是算法推荐，像微信公众号、知乎、微博、今日头条等平台。 且不说算法推送平台广告多，迁移麻烦的问题。算法推荐的特点是，你不需要刻意选择，算法会根据你的喜好，给你推送内容。这样一来，你几乎没有选择的余地，在不断被「喂饱」中逐渐失去判断的能力。更可怕的地方在于，**它替你定义了你的画像，然后把你潜移默化中变成了它所认为的你**。「大数据杀熟」的东窗事发绝非偶然，用算法窥视用户隐私是当今互联网公司的通配。
+
+**做信息的主人，而不是奴隶。**RSS 是一种公开的协议，可自由更换平台与客户端。重要的一点是，**获取信息的权力完全自治**。RSS 相比算法推荐，拥有了可控性和安全感，隐私完全掌握在自己手里。
+
+#### 为什么做这个项目
+
+1. 本人日常获取资讯主要来源有两个，微信公众号和今日头条。先说微信公众号，主要问题是手机端查看受限于布局，需要下划很多进行阅览，PC端体验一般，而且很多博主和国外的网站并没有微信公众号；再说今日头条，算了不想说，越用越烂，原因参考上述为什么用RSS。
+1. 主要感兴趣的领域是网安、靶场、DIY服务器等技术相关的，需要一个聚焦信息的工具（方便摸鱼）
+1. 收集了很多RSS订阅源，想着有会有同样需求的童鞋，就整理了一下
+
+### 0x01 订阅目录
+
+
+
+### 0x02 使用手册
+
+
 
 ### Exploit-Database
 
