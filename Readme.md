@@ -4,9 +4,11 @@
   <img src="https://img.shields.io/badge/Author-Arch3rPro-blueviolet.svg">
   <img src="https://img.shields.io/badge/Release-v1.0-blue.svg" />
   <img src="https://img.shields.io/badge/Platform-Windows-red.svg" />
-  <img src="https://img.shields.io/badge/WSL-Kali-9cf.svg">
-  <img src="https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg">
+  <img src="https://img.shields.io/badge/Platform-MacOS-black.svg" />
+  <img src="https://img.shields.io/badge/Content-安全资讯-brightgreen.svg">
+
 </p>
+
 
 
 <p align="center">
