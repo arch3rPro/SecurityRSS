@@ -66,10 +66,10 @@ RSS 是一种公开的协议，可自由更换平台与客户端。重要的一�
 - [SecurityRSS-Lite.opml](./SecurityRSS-Lite.opml) : 精简版，不包含微信公众号，订阅数量177个，适合快速浏览信息使用。
 - [SecurityRSS-Wechat.opml](./SecurityRSS-Wechat.opml) ：微信公众号扩展包，订阅数量301个，可单独导入，也可再次精简使用。
 
-### 0x02 使用手册
+### 0x03 使用手册
 
 
-### 订阅列表
+### 0x04 订阅列表
 
 #### 安全资讯
 
