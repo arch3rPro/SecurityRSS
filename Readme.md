@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Arch3rPro-blueviolet.svg">
-  <img src="https://img.shields.io/badge/Release-v1.0-blue.svg" />
+  <img src="https://img.shields.io/badge/Release-v1.2-blue.svg" />
   <img src="https://img.shields.io/badge/Platform-Windows-red.svg" />
   <img src="https://img.shields.io/badge/Platform-MacOS-black.svg" />
   <img src="https://img.shields.io/badge/Content-安全资讯-brightgreen.svg">
