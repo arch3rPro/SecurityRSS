@@ -57,11 +57,38 @@ RSS 是一种公开的协议，可自由更换平台与客户端。重要的一�
 
 ### 0x02 版本说明
 
-- [SecurityRSS.opml](./SecurityRSS.opml) : 完整版，包含全部分类，订阅数量478个，订阅链接较多，有些RSS阅读有数量限制。
-- [SecurityRSS-Lite.opml](./SecurityRSS-Lite.opml) : 精简版，不包含微信公众号，订阅数量177个，适合快速浏览信息使用。
-- [SecurityRSS-Wechat.opml](./SecurityRSS-Wechat.opml) ：微信公众号扩展包，订阅数量301个，可单独导入，也可再次精简使用。
+最新版本v1.2，删除部分长时间未更新的博客和微信公众号
+
+- [SecurityRSS.opml](./SecurityRSS.opml) : 完整版，包含全部分类，订阅数量378个，订阅链接较多，有些RSS阅读器有数量限制。
+- [SecurityRSS-Lite.opml](./SecurityRSS-Lite.opml) : 精简版，不包含微信公众号，订阅数量140个，适合快速浏览信息使用。
+- [SecurityRSS-Wechat.opml](./SecurityRSS-Wechat.opml) ：微信公众号扩展包，订阅数量238个，可单独导入，也可再次精简使用。
 
 ### 0x03 使用手册
+
+#### 1. RSS阅读器推荐
+
+| 名称            | 下载链接                                                     | 推荐理由                                                |
+| --------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| MacOS           | [Reeder](https://reederapp.com/)                             | iOS和macOS系统上最优秀的 RSS 阅读器客户端之一，有PJ版本 |
+| Windows         | [Fluent reader](https://github.com/yang991178/fluent-reader) | 开源、跨平台、UI排版美观，现代桌面 RSS 阅读器           |
+| Android         | [Feeder](https://github.com/spacecowboy/Feeder)、[Read You](https://github.com/Ashinch/ReadYou)、[AgrReader](https://github.com/Agr-Reader/Agr-Reader) | 三款都是极简优美的RSS阅读器，各取所爱                   |
+| Subscribing RSS | [RSSHub](https://github.com/DIYgod/RSSHub)                   | **万物皆可 RSS** 订阅神器                               |
+| Self-Host       | [FreshRSS](https://github.com/FreshRSS/FreshRSS)             | 自建订阅服务，支持 Fluent Reader 和 Reeder 的连接       |
+
+#### 2. 使用方法
+
+1. 根据不同需求，下载[SecurityRSS.opml](./SecurityRSS.opml) 、[SecurityRSS-Lite.opml](./SecurityRSS-Lite.opml) 、[SecurityRSS-Wechat.opml](./SecurityRSS-Wechat.opml) 文件;
+2. 在客户端导入订阅文件，一般按钮为` Import from OPML`;
+3. 等待导入完成，部分订阅导入失败，需要魔法上网，重新导入即可；
+4. 下图是Fluent Reader 导入页面。
+
+![Import-OPML](./Import-OPML.png)
+
+5. 下列为Android端导入后的效果，仅供参考。
+
+| Read-You                    | AgrReader                     | Feeder                  |
+| --------------------------- | ----------------------------- | ----------------------- |
+| ![Read-You](./Read-You.png) | ![AgrReader](./AgrReader.png) | ![Feeder](./Feeder.png) |
 
 
 ### 0x04 订阅列表
