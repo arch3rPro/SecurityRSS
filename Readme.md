@@ -80,16 +80,16 @@ RSS 是一种公开的协议，可自由更换平台与客户端。重要的一�
 1. 根据不同需求，下载[SecurityRSS.opml](./SecurityRSS.opml) 、[SecurityRSS-Lite.opml](./SecurityRSS-Lite.opml) 、[SecurityRSS-Wechat.opml](./SecurityRSS-Wechat.opml) 文件;
 2. 在客户端导入订阅文件，一般按钮为` Import from OPML`;
 3. 等待导入完成，部分订阅导入失败，需要魔法上网，重新导入即可；
-4. 下图是Fluent Reader 导入页面。
 
-![Import-OPML](./Import-OPML.png)
+4. 下列为Android端导入后的效果，仅供参考；
 
-5. 下列为Android端导入后的效果，仅供参考。
+| Read-You                        | AgrReader                         | Feeder                      |
+| ------------------------------- | --------------------------------- | --------------------------- |
+| ![Read-You](./img/Read-You.png) | ![AgrReader](./img/AgrReader.png) | ![Feeder](./img/Feeder.png) |
 
-| Read-You                    | AgrReader                     | Feeder                  |
-| --------------------------- | ----------------------------- | ----------------------- |
-| ![Read-You](./Read-You.png) | ![AgrReader](./AgrReader.png) | ![Feeder](./Feeder.png) |
+5. 下图为Windows下Fluent Reader预览效果。
 
+![preview-windows](./img/preview-windows.png)
 
 ### 0x04 订阅列表
 
